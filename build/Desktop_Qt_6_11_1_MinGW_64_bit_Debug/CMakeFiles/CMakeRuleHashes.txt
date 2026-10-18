@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+f0172af63f24f39aeb1d407198245136 CMakeFiles/KeyStarControl_autogen
+2a4b3d2a734dce4f81b08951d8bbf518 KeyStarControl_autogen/3YJK5W5UP7/qrc_app.cpp
+f10e8802e9451bfa2c1ade0d760789f9 KeyStarControl_autogen/timestamp

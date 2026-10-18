@@ -1,0 +1,5 @@
+C:/Users/pc/Desktop/Projelerim/StarPub/build/CMakeFiles/KeyStarControl.dir
+C:/Users/pc/Desktop/Projelerim/StarPub/build/CMakeFiles/edit_cache.dir
+C:/Users/pc/Desktop/Projelerim/StarPub/build/CMakeFiles/rebuild_cache.dir
+C:/Users/pc/Desktop/Projelerim/StarPub/build/CMakeFiles/KeyStarControl_autogen_timestamp_deps.dir
+C:/Users/pc/Desktop/Projelerim/StarPub/build/CMakeFiles/KeyStarControl_autogen.dir
